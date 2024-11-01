@@ -1,0 +1,13 @@
+#principal {
+    width: 400px;
+    height: 300px;
+    background-color: aqua;
+    border: 1px solid #000;
+    margin: auto;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+body{
+    background-color: rgb(67, 14, 92);
+}
